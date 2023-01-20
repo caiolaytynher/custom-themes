@@ -10,6 +10,3 @@
 [submodule "Tokyo-Night-GTK-Theme"]
 	path = Tokyo-Night-GTK-Theme
 	url = https://github.com/Fausto-Korpsvart/Tokyo-Night-GTK-Theme.git
-[submodule "wallpaper"]
-	path = wallpaper
-	url = https://github.com/dracula/wallpaper.git
