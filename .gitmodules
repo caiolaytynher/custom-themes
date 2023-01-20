@@ -1,3 +1,6 @@
 [submodule "Gruvbox-GTK-Theme"]
 	path = Gruvbox-GTK-Theme
 	url = https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme.git
+[submodule "Everforest-GTK-Theme"]
+	path = Everforest-GTK-Theme
+	url = https://github.com/Fausto-Korpsvart/Everforest-GTK-Theme.git
