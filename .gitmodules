@@ -4,3 +4,6 @@
 [submodule "Everforest-GTK-Theme"]
 	path = Everforest-GTK-Theme
 	url = https://github.com/Fausto-Korpsvart/Everforest-GTK-Theme.git
+[submodule "Kanagawa-GKT-Theme"]
+	path = Kanagawa-GKT-Theme
+	url = https://github.com/Fausto-Korpsvart/Kanagawa-GKT-Theme.git
