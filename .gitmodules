@@ -7,3 +7,6 @@
 [submodule "Kanagawa-GKT-Theme"]
 	path = Kanagawa-GKT-Theme
 	url = https://github.com/Fausto-Korpsvart/Kanagawa-GKT-Theme.git
+[submodule "Tokyo-Night-GTK-Theme"]
+	path = Tokyo-Night-GTK-Theme
+	url = https://github.com/Fausto-Korpsvart/Tokyo-Night-GTK-Theme.git
