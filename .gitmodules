@@ -13,3 +13,6 @@
 [submodule "Dracula-wallpapers"]
 	path = Dracula-wallpapers
 	url = https://github.com/dracula/wallpaper.git
+[submodule "Catppuccin-wallpapers"]
+	path = Catppuccin-wallpapers
+	url = https://github.com/catppuccin/wallpapers.git
