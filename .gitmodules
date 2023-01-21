@@ -16,3 +16,6 @@
 [submodule "Catppuccin-wallpapers"]
 	path = Catppuccin-wallpapers
 	url = https://github.com/catppuccin/wallpapers.git
+[submodule "OneDarkWallpapers"]
+	path = OneDarkWallpapers
+	url = https://github.com/UnnatShaneshwar/OneDarkWallpapers.git
